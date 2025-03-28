@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket Booking", "Ticket Booking.csproj", "{F9327AD1-BD9E-402F-BCFD-37F119AA2710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticket Booking BusinessDataLogic", "..\Ticket Booking BusinessDataLogic\Ticket Booking BusinessDataLogic.csproj", "{02670E5D-B176-475A-9EE1-FB71E2B95BE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F9327AD1-BD9E-402F-BCFD-37F119AA2710}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9327AD1-BD9E-402F-BCFD-37F119AA2710}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9327AD1-BD9E-402F-BCFD-37F119AA2710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02670E5D-B176-475A-9EE1-FB71E2B95BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02670E5D-B176-475A-9EE1-FB71E2B95BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02670E5D-B176-475A-9EE1-FB71E2B95BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02670E5D-B176-475A-9EE1-FB71E2B95BE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
